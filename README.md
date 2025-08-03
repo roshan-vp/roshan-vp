@@ -96,22 +96,4 @@
 </p>
 
 ---
-
-## 🌍 Hello World, but Make it 🇮🇳
-
-<p align="center">
-  <strong>🌐 Languages I Respect, Love & Represent</strong>
-</p>
-
-<p align="center">
-  🇮🇳 Malayalam: <code>ഹലോ വേൾഡ്</code>  <br>
-  🇮🇳 Telugu: <code>హలో వరల్డ్</code> <br>
-  🇮🇳 Hindi: <code>नमस्ते दुनिया</code> <br>
-  🇮🇳 Marathi: <code>नमस्कार जग</code> <br>
-  🇮🇳 Tamil: <code>வணக்கம் உலகம்</code> <br>
-  🇮🇳 Kannada: <code>ಹಲೋ ವರ್ಲ್ಡ್</code> <br>
-</p>
-
-<p align="center">
-  <em>Unity in Diversity — in Life and in Code 💛</em>
-</p>
+>
