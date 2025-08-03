@@ -59,24 +59,11 @@
 
 ---
 
-## 🧠 GitHub Vibes
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your_username&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact&theme=tokyonight" />
-</p>
-
----
-
 ## 🧩 About Me
 - 🎓 I'm currently doing my **BCA Online**
 - 💻 Learning **MERN Stack** + **Java DSA**
 - 🎯 Vision: Become an **ML Engineer** with strong math + CS roots
 - 🌱 Growing through **projects, self-discipline, and community**
-- 🧘‍♂️ Bonus: Deeply interested in **HCI** and my roots in *Aranmula Vallapattu*
 
 ---
 
