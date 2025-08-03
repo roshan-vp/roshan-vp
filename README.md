@@ -87,13 +87,3 @@
   💬 *"I’m not perfect, I’m just improving every single day."*  
   <br>🖤 If you're on the same journey — let’s connect & grow.
 </p>
-
-<h1 align="center">✨ Hey, I’m Roshan ✨</h1>
-<h3 align="center">MERN Stack Dev | Java + DSA Explorer | Future ML Engineer | BCA Student 📚</h3>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="250" alt="dev-gif" />
-</p>
-
----
->
