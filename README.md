@@ -1,21 +1,52 @@
-# 💫 About Me:
- Hey there! I'm Roshan<br>🔭 I’m currently working on improving my web development skills and building cool full-stack projects.<br>🤝 I’m looking to collaborate on open-source projects and MERN stack applications.<br>🌱 I’m currently learning full-stack development.<br>💡 Fun fact: I can overthink a single idea for hours but still code it in minutes! 😆
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rosh4n.exe) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/roshan04vp) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:roshan04vp@gmail.com) 
 
-# 💻 Tech Stack:
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=roshan-devX&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=roshan-devX&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=roshan-devX&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<h1 align="center">Hey 👋, I'm Roshan</h1>
+<h3 align="center">BCA Student | MERN Stack Dev | Java & DSA Learner | Future ML Engineer 🚀</h3>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=roshan-devX&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🧑‍💻 Tech Stack I’m Working With
+
+- 🌐 **Frontend**: HTML, CSS, JavaScript, React.js, Tailwind CSS
+- 🛠️ **Backend**: Node.js, Express.js, MongoDB, Mongoose
+- 🧠 **Programming**: Java (Core + DSA), JavaScript, C (Basics), Python 
+- ☁️ **Tools & Platforms**: Git, GitHub, VS Code, Postman, Render, Netlify
+- 📈 **Learning**: Machine Learning (Math + Python), GenAI tools, Notion
+
+---
+
+### 📌 Current Goals
+- 📚 Complete Online BCA with max self-growth
+- ⚔️ Crack NIMCET and get into NIT for MCA
+- 🧠 Build strong ML foundation in maths & theory
+- 💻 Make aesthetic, full-stack and AI-powered projects
+- 🌱 Become a Machine Learning Engineer
+
+---
+
+### 📲 Let’s Connect!
+
+<p align="left">
+  <a href="https://www.instagram.com/roshanvp___" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/roshan04vp" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/roshan-vp" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?style=flat&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### ⚡ Fun Fact:
+> I'm a tech guy with desi roots who’s building from scratch, one project at a time.
+
+---
+
+### 🖤 Support My Journey:
+If you like my work or find it helpful, feel free to star ⭐ my projects or drop a message!
+
+---
