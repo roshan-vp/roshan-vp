@@ -87,3 +87,31 @@
   💬 *"I’m not perfect, I’m just improving every single day."*  
   <br>🖤 If you're on the same journey — let’s connect & grow.
 </p>
+
+<h1 align="center">✨ Hey, I’m Roshan ✨</h1>
+<h3 align="center">MERN Stack Dev | Java + DSA Explorer | Future ML Engineer | BCA Student 📚</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="250" alt="dev-gif" />
+</p>
+
+---
+
+## 🌍 Hello World, but Make it 🇮🇳
+
+<p align="center">
+  <strong>🌐 Languages I Respect, Love & Represent</strong>
+</p>
+
+<p align="center">
+  🇮🇳 Malayalam: <code>ഹലോ വേൾഡ്</code>  <br>
+  🇮🇳 Telugu: <code>హలో వరల్డ్</code> <br>
+  🇮🇳 Hindi: <code>नमस्ते दुनिया</code> <br>
+  🇮🇳 Marathi: <code>नमस्कार जग</code> <br>
+  🇮🇳 Tamil: <code>வணக்கம் உலகம்</code> <br>
+  🇮🇳 Kannada: <code>ಹಲೋ ವರ್ಲ್ಡ್</code> <br>
+</p>
+
+<p align="center">
+  <em>Unity in Diversity — in Life and in Code 💛</em>
+</p>
