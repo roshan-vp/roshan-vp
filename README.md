@@ -67,6 +67,9 @@
 
 ---
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=roshan-vp&layout=compact&theme=tokyonight&langs_count=10&hide=html,css)
+
+
 ## 🌐 Let’s Connect
 
 <p align="center">
