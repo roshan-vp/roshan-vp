@@ -60,7 +60,6 @@
 ---
 
 ## 🧩 About Me
-- 🎓 I'm currently doing my **BCA Online**
 - 💻 Learning **MERN Stack** + **Java DSA**
 - 🎯 Vision: Become an **ML Engineer** with strong math + CS roots
 - 🌱 Growing through **projects, self-discipline, and community**
