@@ -1,5 +1,5 @@
 <h1 align="center">✨ Hey, I’m Roshan ✨</h1>
-<h3 align="center">MERN Stack Dev | Java + DSA Explorer | Aspiring ML Engineer 📚</h3>
+<h3 align="center">MERN Stack Dev | Java + DSA Explorer | Aspiring DevOps Engineer 📚</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/26xBwdIuRJiAIqHwA/giphy.gif" width="250" alt="dev-gif" />
