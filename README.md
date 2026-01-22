@@ -69,15 +69,6 @@
 
 ---
 
-## 🏆 Projects
-
-### 🏠 [Airbnb Clone]((https://github.com/roshan-vp/Vibnb-project))
-A full-stack Airbnb clone built with the MERN stack
-- **Tech:** Node.js, MongoDB, Express.js, EJS, JS, HTML, CSS, BootStrap
-- **Features:** User authentication, property listings, booking system
-
----
-
 ## 🎯 Current Focus
 
 ```javascript
